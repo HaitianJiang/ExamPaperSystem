@@ -92,7 +92,7 @@
 /* 试卷列表显示 */
 .all-papers{
     height: 250px;
-    margin: 150px 250px 40px;
+    margin: 125px 250px 40px;
     background-color: rgba(255, 255, 255, 1);
     box-shadow: 0px 0px 5px rgba(140, 140, 140, 0.3);
 }
@@ -129,7 +129,7 @@
     color: #45bd81;
 }
 
-.difficulty-level #df1{
+.difficulty-level #df0{
     color: #45bd81;
     background: url(../img/df1-background.png) no-repeat center;
 }
@@ -213,3 +213,80 @@
     background-color: rgba(199, 199, 199, 0.3);
 }
 
+
+/*                  */
+/* 显示拥有的试卷详情 */
+/*                  */
+
+/* 设置盒子 */
+.specific-paper{
+    height: 1000px;
+    margin: 50px 250px auto;
+    /* background-color: #f8f8f8; */
+}
+
+/* 设置表格 */
+.specific-paper .paper-information{
+    width: 100%;
+    align: center;
+    border-collapse: collapse;
+    padding: 20px 0;
+    table-layout: fixed;
+}
+
+/* 设置td和th */
+.paper-information th, .paper-information td{
+    border: 1px solid rgba(162, 162, 162, 0.3);
+    padding: 10px 20px;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.paper-information td{
+    color: #6f6f6f;
+}
+
+.paper-information th{
+    text-align: left;
+    background-color: #e6e6e6;
+    padding: 12px 20px;
+    color: #797979;
+    font-weight: 500;
+ 
+}
+
+
+.paper-information tr.alt td{
+    color:#000000;
+    background-color:#f7f7f7;
+    color: #6f6f6f;
+}
+
+/* 设置【查看试卷】链接 */
+.paper-information #watch-paper{
+    text-decoration: none;
+    color: #2e9aff;
+}
+
+/* 指定每列的宽度 */
+.paper-information #th1{
+    width: 80px;
+}
+.paper-information #th2{
+    width: 230px;
+}
+.paper-information #th3{
+    width: 60px;
+}
+.paper-information #th4{
+    width: 50px;
+}
+.paper-information #th5{
+    width: 80px;
+}
+.paper-information #th6{
+    width: 120px;
+}
+.paper-information #th7{
+    width: 120px;
+}
