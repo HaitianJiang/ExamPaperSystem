@@ -1,0 +1,49 @@
+<!-- 试卷库管理系统 -- 学生登录后查看的页面 查看试卷页面 -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>试卷库管理系统</title>
+        <link rel="shortcut icon" href="./img/logo2.svg" type="image/x-icon">
+        <link rel="stylesheet" href="./css/indext-style.css"/>
+	</head>
+	<body>
+        <!-- 顶部栏 -->
+        <div class="common-header">
+            <!-- logo -->
+            <span>
+                <img id="log" src="img/试卷管理系统log.svg" />
+            </span>
+            <span id="paper-header">试卷库管理系统</span>
+            
+            <!-- 中部试卷信息 -->
+            <span class="test-paper">
+                <a class="paper" href="#">查看试卷</a>
+                <a class="answer" href="answer.html">查看答案</a>
+            </span>
+            
+            
+            
+            <!-- 右侧个人信息 -->
+            <span>
+                <img id="login-member" src="img/登录用户头像.png" />
+            </span>
+            <span id="information">
+                <a href="#">个人信息</a>
+            </span>
+            <span id="message">
+                <a href="#">通知</a>
+            </span>
+            
+        </div>
+        
+        <!-- 内部框架 -->
+        <div class="paper-answer-content">
+            <iframe  name="page" src="paper.html">
+                
+            </iframe>
+        </div>
+        
+        
+	</body>
+</html>
