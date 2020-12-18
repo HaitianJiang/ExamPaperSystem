@@ -1,0 +1,96 @@
+<!-- 试卷库管理系统 -- 学生登录后查看的页面 -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>试卷库管理系统</title>
+       
+        <link rel="stylesheet" href="./css/question_check.css"/>
+	</head>
+	<body>
+
+        <!-- 当前试卷列表 -->
+        <div class="all-papers">
+            <!-- 难度系数 -->
+            <div class="difficulty-level">
+                <span class="select-title">难度：</span>
+                <a id="df0" href="#">全部</a>
+                <a id="df1" href="#">菜鸟</a>
+                <a id="df2" href="#">入门</a>
+                <a id="df3" href="#">高手</a>
+                <a id="df4" href="#">顶尖</a>
+                <a id="df5" href="#">超神</a>
+            </div>
+            <!-- 分割线 -->
+            <div class="cut-line">
+                
+            </div>
+            <!-- 章节 -->
+            <div class="chapter">
+                <span class="select-title">章节：</span>
+                <a id="df0" href="#">全部</a>
+                <a id="df1" href="#">引论</a>
+                <a id="df2" href="#">进程</a>
+                <a id="df3" href="#">线程</a>
+                <a id="df4" href="#">虚存管理</a>
+                <a id="df5" href="#">文件管理</a>
+                <a id="df5" href="#">输入输出系统</a>
+                <a id="df5" href="#">磁盘存储器管理</a>
+                <!-- 换行和对齐 -->
+                <br />
+                <span style="margin-left: 93px;"></span>
+               
+                <a id="df5" href="#">操作系统接口</a>
+                <a id="df5" href="#">多处理器操作系统</a>
+                <a id="df5" href="#">保护和安全</a>
+            </div>
+            <!-- 分割线 -->
+            <div class="cut-line">
+                
+            </div>
+            <!-- 知识点 -->
+            <div class="knowledge-point">
+                <span class="select-title">知识点：</span>
+                <a id="df0" href="#">全部</a>
+                <a id="df1" href="#">操作系统的目标与作用</a>
+                <a id="df2" href="#">操作系统的发展过程</a>
+                <a id="df3" href="#">操作系统的基本特性</a>
+                <a id="df4" href="#">操作系统的主要功能</a>
+                
+                <!-- 换行和对齐 -->
+               
+                <span style="margin-left: 93px;"></span>
+                
+                <a id="df5" href="#">OS结构设计</a>
+            </div>
+        </div>
+		
+		<div class="question ">
+			<!-- 问题 id 修改 删除 -->
+			<div class="question_head clearfix">
+				<div class="item_name">ID:</div> <input class="item_input" type="text" placeholder="123 " name="id" size="60" readonly="readonly" /><br />
+				
+			</div>
+			<!-- 问题的 题目 选项 -->
+			<div class="question_body">
+				<div class="item_name">题目:</div> <input class="item_input" type="text" placeholder="常见的线程种类有() " name="title"  size="60"
+				 readonly="readonly" /><br />
+				<div class="item_name">A:</div> <input class="item_input" type="text" placeholder="选用户线程" size="60" name="A"  readonly="readonly" /><br />
+				<div class="item_name">B:</div> <input class="item_input" type="text" placeholder="内核线程" size="60" name="B"  readonly="readonly" /><br />
+				<div class="item_name">C:</div> <input class="item_input" type="text" placeholder="轻量级进程" size="60" name="C" readonly="readonly" /><br />
+				<div class="item_name">D:</div> <input class="item_input" type="text" placeholder="线程" size="60" name="D" readonly="readonly" /><br />
+			</div>
+			<!-- 问题的 属性 难度 -->
+			<div class="question_answer">
+				<div class="item_name">答案:</div> <input class="item_input" type="text" placeholder="ABC" size="60" name="answer"  readonly="readonly" /><br />
+				<div class="item_name">难度系数:</div> <input class="item_input" type="text" placeholder="1" size="60" name="difficulty"  readonly="readonly" /><br />
+				<div class="item_name">所属章节编号:</div> <input class="item_input" type="text" placeholder="3" size="60" name="chapter_number" readonly="readonly" /><br />
+				<div class="item_name">所属章节要点:</div> <input class="item_input" type="text" placeholder="进程和线程管理" name="chapter_points"  size="60"
+				 readonly="readonly" /><br />
+				<div class="item_name">所属章节标题:</div> <input class="item_input" type="text" placeholder="网络" size="60" name="chapter_title" readonly="readonly" /><br />
+			</div>
+		</div>
+        
+
+	</body>
+</html>

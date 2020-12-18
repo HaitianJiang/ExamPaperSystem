@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link href="./css/question_manage.css" rel="stylesheet" type="text/css">
+		<title></title>
+	</head>
+	<body>
+		<!-- 修改试题页面头部 -->
+		<div id="head">
+			<div id="title">
+				<p>当前题库信息</p>
+			</div>
+			<div id="adds_question">
+
+				<button><a href="question_add.html" target="content">+ 添加题目</a></button>
+			</div>
+		</div>
+		<!-- 修改问题 的问题部分 -->
+		<div id="body">
+			<!-- 问题  -->
+			<div class="question ">
+				<!-- 问题 id 修改 删除 -->
+				<div class="question_head clearfix">
+					<div class="item_name">ID:</div> <input class="item_input" type="text" placeholder="123 " name="id" size="60" readonly="readonly" /><br />
+					<div class="question_change">
+						<a href="#"><img name="revise_img" class="ico" width="20px" src="./img/修改.png" title="修改"></a>
+						<a href="#"><img name="delect_img" class="ico" width="20px" src="./img/删 除.png" title="删除"></a>
+					</div>
+				</div>
+				<!-- 问题的 题目 选项 -->
+				<div class="question_body">
+					<div class="item_name">题目:</div> <input class="item_input" type="text" placeholder="常见的线程种类有() " name="title"  size="60"
+					 readonly="readonly" /><br />
+					<div class="item_name">A:</div> <input class="item_input" type="text" placeholder="选用户线程" size="60" name="A"  readonly="readonly" /><br />
+					<div class="item_name">B:</div> <input class="item_input" type="text" placeholder="内核线程" size="60" name="B"  readonly="readonly" /><br />
+					<div class="item_name">C:</div> <input class="item_input" type="text" placeholder="轻量级进程" size="60" name="C" readonly="readonly" /><br />
+					<div class="item_name">D:</div> <input class="item_input" type="text" placeholder="线程" size="60" name="D" readonly="readonly" /><br />
+				</div>
+				<!-- 问题的 属性 难度 -->
+				<div class="question_answer">
+					<div class="item_name">答案:</div> <input class="item_input" type="text" placeholder="ABC" size="60" name="answer"  readonly="readonly" /><br />
+					<div class="item_name">难度系数:</div> <input class="item_input" type="text" placeholder="1" size="60" name="difficulty"  readonly="readonly" /><br />
+					<div class="item_name">所属章节编号:</div> <input class="item_input" type="text" placeholder="3" size="60" name="chapter_number" readonly="readonly" /><br />
+					<div class="item_name">所属章节要点:</div> <input class="item_input" type="text" placeholder="进程和线程管理" name="chapter_points"  size="60"
+					 readonly="readonly" /><br />
+					<div class="item_name">所属章节标题:</div> <input class="item_input" type="text" placeholder="网络" size="60" name="chapter_title" readonly="readonly" /><br />
+				</div>
+			</div>
+
+		</div>
+	</body>
+</html>
