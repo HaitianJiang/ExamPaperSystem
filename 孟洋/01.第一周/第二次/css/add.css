@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.add_form {
+	width: 700px;
+	height: 400px;
+	margin-left: 220px;
+	margin-top: 80px;
+}
+.thead {
+	width: 160px;
+	height: 60px;
+	font-family: "微软雅黑";
+	font-weight: 500;
+	font-size: 18px;
+	text-align: center;
+	color: #333333;
+}
+
+.add_form input {
+	width: 234px;
+	height: 36px;
+	border: 1px solid #C0C0C0;
+	caret-color: #666666;
+	border-radius: 4px;
+	padding-left: 10px;
+	outline-color: #03BB7A;
+	font-size: 13px;
+	
+}
+
+.add_form input[type="submit"]{
+	width: 246px;
+	height: 36px;
+	padding-left: 0;
+	font-family: "微软雅黑";
+	font-weight: normal;
+	font-size: 13px;
+	color: #FFFFFF;
+	background-color: #03BB7A;
+	border: 1px solid #03BB7A;
+}
+
+.save {
+	margin-top: 40px;
+	margin-left: 130px;
+}
