@@ -1,0 +1,296 @@
+/* 页面顶部 */
+.common-header{
+    height: 70px;
+    line-height: 70px;
+    font-family: Avenir,Helvetica,Arial,sans-serif !important;
+    /* border-bottom: 1px solid #eaeaea; */
+    min-width: inherit;
+    background-color: #FFFFFF;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    box-shadow: 1px 1px 3px rgba(140, 140, 140, 0.5);
+    text-align: center;
+}
+
+/* logo */
+.common-header #paper-header{
+    color: #303030;
+    font-size: 20px;
+    float: left;
+}
+
+.common-header #log{
+    max-height: 50%;
+    vertical-align: middle;
+    margin: 17px 10px auto 200px;
+    float: left;
+}
+
+
+/* test paper and answer */
+.test-paper{
+    display: inline-block;
+    text-align: center;
+}
+
+.test-paper a{
+    display: inline-block;
+    text-decoration: none;
+    color: #303030;
+    line-height: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 17px;
+    font-weight: 400;
+    
+}
+
+.test-paper .answer:hover{
+    color: #38a28a;
+    background: url(../img/header-underline.jpg) no-repeat;
+}
+
+.test-paper .paper{
+    color: #38a28a;
+    background: url(../img/header-underline.jpg) no-repeat;
+}
+    
+
+/* member information and message */
+.common-header #login-member{
+    height: 36px;
+    width: 36px;
+    /* vertical-align: middle; */
+    float: right;
+    margin: 17px 200px 17px 30px;
+}
+
+.common-header #information{
+    float: right;
+    margin-right: 15px;
+}
+
+.common-header #information a{
+    text-decoration:none;
+    color:#000000; 
+}
+
+.common-header #message{
+    float: right;
+    margin-right: 45px;
+}
+
+.common-header #message a{
+    text-decoration:none;
+    color:#000000; 
+}
+
+
+.step{
+    width: 70%;
+    height:100px;
+    margin-top:100px;
+    margin-left: 15%;
+    /*background-color: aquamarine;*/
+    border: 1px solid #38a28a;
+}
+
+.step-1{
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: red;
+    margin-top: 25px;
+    margin-left: 20%;
+    border: 1px solid black;
+
+}
+
+.step-2{
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    /*background-color: red;*/
+    margin-top: 25px;
+    margin-left: 25%;
+    border: 1px solid black;
+}
+
+.step-3{
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    /*background-color: red;*/
+    margin-top: 25px;
+    margin-left:25%;
+    border: 1px solid black;
+
+}
+
+.step-span{
+    height: 20px;
+    /*background-color: aqua;*/
+    margin-top: 58px;
+
+}
+.step-s1{
+    margin-left: 18%;
+}
+
+.step-s2{
+    margin-left: 20.5%;
+}
+
+.step-s3{
+    margin-left: 22%;
+}
+
+.select{
+    width: 70%;
+    height:600px;
+    border:1px solid aqua;
+    margin-top: 20px;
+    margin-left: 15%;
+}
+
+.select-infor1{
+    width: 90%;
+    height: 37px;
+    border:solid #68c4a9;
+    border-width: 0 0 0 5px;
+    margin-top: 15px;
+    margin-left: 4%;
+}
+
+.select-infor1 span{
+    line-height: 37px;
+    margin-left: 15px;
+}
+
+.name{
+    width: 80%;
+    height: 200px;
+    background-color: antiquewhite;
+    margin-left: 12%;
+}
+
+.text1-s{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.text2-s{
+    margin-left: 20%;
+    margin-top: 40px;
+
+}
+
+.text2{
+    margin-top: 40px;
+    margin-right: 10%;
+}
+
+.checkbox1-s{
+    margin-left: 50px;
+    margin-top: 200px;
+}
+
+.checkbox1{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.checkbox2{
+    margin-left: 20px;
+}
+
+.checkbox3{
+    margin-left: 20px;
+
+}
+
+.radio-s{
+    margin-left: 48px;
+}
+
+.radio1{
+    margin-left: 2px;
+}
+
+.radio2{
+    margin-left: 10px;
+}
+
+.select-infor2{
+    width: 90%;
+    height: 37px;
+    border:solid #68c4a9;
+    border-width: 0 0 0 5px;
+    margin-top: 30px;
+    margin-left: 4%;
+}
+
+.select-infor2 span{
+    line-height: 37px;
+    margin-left:15px;
+}
+
+.chapter{
+    width: 80%;
+    height: 200px;
+    background-color: antiquewhite;
+    margin-left: 12%;
+    margin-top: 15px;
+}
+
+.checkbox4{
+    margin-left: 50px;
+    margin-right: 13px;
+}
+
+.text3-s{
+    margin-left:34.5%;
+    line-height: 90px;
+}
+
+.checkbox5{
+    margin-left: 50px;
+    margin-right: 13px;
+}
+
+
+.text4-s{
+    margin-left:30.3%;
+}
+
+.checkbox6{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 13px;
+}
+
+.text5-s{
+    margin-left: 34.4%;
+}
+
+.jump{
+    width: 70%;
+    height: 70px;
+    /*background-color: #68c4a9;*/
+    margin-left: 15%;
+    margin-top: 40px;
+    margin-bottom: 200px;
+    border: 1px solid red;
+}
+
+.button1{
+    width: 50px;
+    margin-left: 45%;
+    margin-top: 30px;
+}

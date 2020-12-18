@@ -1,0 +1,215 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: #eee;
+	width 100%;
+	margin: 0 auto;
+}
+.top-bar {
+	background-color: #fff;
+	width: 100%;
+	height: 40px;
+	box-shadow: 2px 2px 10px 1px #c0c0c0;
+}
+.top-bar .text-title {
+	float: left;
+	width: 100px;
+	margin-left: 40px;
+	margin-top: 9px;
+}
+.text-title a {
+	font-family: "微软雅黑";
+	font-weight: 600;
+	font-size: 16px;
+	color: #666666;
+	text-decoration: none; /*取消下划线*/
+}
+/*
+
+.top-bar .btn {
+	float: right;
+	width: 150px;
+	margin-top: 12px;
+	margin-right: 30px;
+}
+.btn #sign-in{
+	float: left;
+	width: 60px;
+	height: 25px;
+	border: 1px solid #03bb7a;
+	border-radius: 4px;
+	background-color: #fff;
+	text-align: center;
+}
+.btn #sign-up{
+	float: right;
+	width: 60px;
+	height: 25px;
+	border: 1px solid #03bb7a;
+	border-radius: 4px;
+	background-color: #03BB7A;
+	text-align: center;
+}
+.btn #sign-in a {
+	font-family: "微软雅黑";
+	font-weight: 500;
+	font-size: 12px;
+	color: #03bb7a;
+	text-decoration: none; 
+}
+.btn #sign-up a {
+	font-family: "微软雅黑";
+	font-weight: 500;
+	font-size: 12px;
+	color: #fff;
+	text-decoration: none; 
+}
+*/
+
+.mid {
+	width: 100%;
+	height: 400px;
+	padding-top: 110px;
+	padding-bottom: 141px;
+	box-shadow: inset 0 2px 10px 1px #c0c0c0; /*内阴影*/
+}
+.mid #img1 {
+	float: left;
+	margin-top: 60px;
+	margin-left: 200px;
+}
+
+.mid .form_style {
+	border-radius: 6px;
+	background-color: #fff;
+	box-shadow: 0 2px 10px 1px #dddddd;
+}
+
+.mid #login_form {
+	float: right;
+	margin-right: 180px;
+	width: 320px;
+	height:380px;
+}
+.mid #sign_up_form {
+	float: left;
+	margin-left: 608px;
+	width: 320px;
+	height:400px;
+}
+.footer {
+	background-color: #2e2e41;
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	
+}
+.footer .C {
+	display: inline-block;
+	width: 200px;
+	margin-top: 10px;
+}
+.footer .C a {
+	font-family: "微软雅黑";
+	font-weight: 500;
+	font-size: 12px;
+	color: #999999;
+	text-decoration: none; /*取消下划线*/
+}
+.mid .form_style .form_title{
+	margin-top: 45px;
+	margin-left: 40px;
+}
+.mid .form_style .form_title a {
+	font-family: "微软雅黑";
+	font-weight: 500;
+	font-size: 15px;
+	color: #000;
+	text-decoration: none; /*取消下划线*/
+}
+.line {
+	width: 40px;
+	height: 10px;
+	margin-top: 6px;
+	margin-left: 50px;
+	border-top: 3px solid #03BB7A;
+}
+#login_input_id {
+	margin-left: 40px;
+	margin-top: 36px;
+}
+#login_input_pd {
+	margin-left: 40px;
+	margin-top: 30px;
+}
+.form_style input {
+	width: 234px;
+	height: 36px;
+	border: 1px solid #C0C0C0;
+	caret-color: #666666;
+	border-radius: 4px;
+	padding-left: 10px;
+	outline-color: #03BB7A;
+	font-size: 13px;
+	
+}
+#login_modify_pd {
+	margin-top: 4px;
+	margin-left: 238px;
+}
+#login_modify_pd a {
+	font-family: "微软雅黑";
+	font-weight: normal;
+	font-size: 5px;
+	color: #03BB7A;
+	text-decoration: none; /*取消下划线*/
+}
+.form_style #login_submit {
+	margin-left: 40px;
+	margin-top: 30px;
+}
+.form_style input[type="submit"]{
+	width: 246px;
+	height: 36px;
+	padding-left: 0;
+	font-family: "微软雅黑";
+	font-weight: normal;
+	font-size: 13px;
+	color: #FFFFFF;
+	background-color: #03BB7A;
+	border: 1px solid #03BB7A;
+}
+
+.form_style #sign_up_input_id {
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.form_style #sign_up_input_opd {
+	margin-left: 40px;
+	margin-top: 28px;
+}
+.form_style #sign_up_input_npd {
+	margin-left: 40px;
+	margin-top: 28px;
+}
+.form_style #sign_up_submit {
+	margin-left: 40px;
+	margin-top: 28px;
+}
+.lint {
+	width: 120px;
+	height: 20px;
+	margin-top: 30px;
+	margin-left: 100px;
+	font-family: "微软雅黑";
+	font-weight: normal;
+	font-size: 5px;
+	color: #666666;
+}
+.lint a {
+	color: #03BB7A;
+	text-decoration: none; /*取消下划线*/
+}
+
