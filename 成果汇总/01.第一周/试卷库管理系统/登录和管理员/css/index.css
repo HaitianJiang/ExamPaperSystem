@@ -34,7 +34,7 @@ body {
 }
 .mid #img1 {
 	float: left;
-	margin-top: 155px;
+	margin-top: 175px;
 	margin-left: 200px;
 }
 
@@ -47,7 +47,7 @@ body {
 
 .mid #login_form {
 	float: right;
-	margin-top: 100px;
+	margin-top: 120px;
 	margin-right: 230px;
 	width: 320px; 
 	height:380px; 
