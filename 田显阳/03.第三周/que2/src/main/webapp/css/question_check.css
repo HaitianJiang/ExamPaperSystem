@@ -1,0 +1,206 @@
+/* 试卷列表显示 */
+.all-papers {
+  height: 250px;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 5px rgba(140, 140, 140, 0.3);
+}
+/*         */
+/* 难度系数 */
+/*         */
+.all-papers .difficulty-level {
+  height: 49px;
+}
+/* 选择文本框 难度 */
+.difficulty-level .select-title {
+  display: inline-block;
+  width: 70px;
+  line-height: 49px;
+  color: #393939;
+  padding-left: 23px;
+}
+/* 难度选择 */
+.difficulty-level a {
+  display: inline-block;
+  text-decoration: none;
+  color: #7f7f7f;
+  height: 49px;
+  padding: 0 20px;
+  /* width: 72px; */
+  line-height: 49px;
+  text-align: center;
+}
+.difficulty-level a:hover {
+  color: #45bd81;
+}
+.difficulty-level #df0 {
+  color: #45bd81;
+  /* background: url(../img/df1-background.png) no-repeat center; */
+}
+/*      */
+/* 章节 */
+/*      */
+.all-papers .chapter {
+  height: 99px;
+}
+/* 选择文本框 章节 */
+.chapter .select-title {
+  display: inline-block;
+  width: 70px;
+  line-height: 49px;
+  color: #393939;
+  padding-left: 23px;
+}
+.chapter a {
+  display: inline-block;
+  text-decoration: none;
+  color: #7f7f7f;
+  height: 49px;
+  /* width: 72px; */
+  padding: 0 20px;
+  line-height: 49px;
+  text-align: center;
+}
+.chapter a:hover {
+  color: #45bd81;
+}
+.chapter #df1 {
+  color: #45bd81;
+  /* background: url(../img/df1-background.png) no-repeat center; */
+}
+/* 知识点 */
+.all-papers .knowledge-point {
+  height: 100px;
+}
+/* 选择文本框 章节 */
+.knowledge-point .select-title {
+  display: inline-block;
+  width: 70px;
+  line-height: 49px;
+  color: #393939;
+  padding-left: 23px;
+}
+.knowledge-point a {
+  display: inline-block;
+  text-decoration: none;
+  color: #7f7f7f;
+  height: 49px;
+  /* width: 72px; */
+  padding: 0 20px;
+  line-height: 49px;
+  text-align: center;
+}
+.knowledge-point a:hover {
+  color: #45bd81;
+}
+.knowledge-point #df1 {
+  color: #45bd81;
+  /* background: url(../img/know-background.png) no-repeat center; */
+}
+.all-papers {
+  box-shadow: 0px 0px 10px white ;
+  background-color: white;
+
+  border-radius: 15px 15px;
+  width: 70%;
+  margin: 50px auto;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+a {
+  text-decoration: none;
+}
+.ico {
+  margin-right: 10px ;
+}
+.item_name {
+  position: relative;
+  top: 15px;
+  width: 15%;
+  display: inline-block;
+  text-align: right;
+}
+.item_input {
+  position: relative;
+  top: 15px;
+  display: inline-block;
+}
+.question {
+  width: 70%;
+  margin: 0 auto;
+  padding: 5px;
+  box-shadow: 0px 0px 10px white ;
+  background-color: white;
+  background-color: #f0f0f0;
+  border-radius: 15px 15px;
+  color: #7f7f7f;
+}
+.question input::-webkit-input-placeholder {
+  color: #7f7f7f;
+}
+.question input {
+  outline: none;
+  padding-left: 10px;
+  border: 0px;
+  color:  #7f7f7f;
+  background: none;
+  height: 10px;
+  padding: 10px;
+}
+.question .question_head {
+  border-bottom: gray solid 2px;
+  height: 50%;
+  margin: 10px ;
+  padding-bottom: 20px;
+}
+.question .question_head .question_change {
+  float: right;
+  position: relative;
+  top: -10px;
+}
+.question .question_body {
+  margin: 10px ;
+  padding-bottom: 20px;
+  border-bottom: 1px black dashed;
+}
+.question .question_answer {
+  margin: 10px;
+}
+a
+{
+  /*background-color: red;*/
+
+  color: #7f7f7f;
+}
+a[class="refresh"]:visited
+{
+  color: #7f7f7f;
+}
+#fengye
+{
+  margin-left: 20%;
+  margin-top: 2%;
+  margin-bottom: 20px;
+}
+ .question [name="ss"] {
+
+  background-color: #f0f0f0;
+  margin-bottom: 50px;
+   margin-top: 50px;
+
+}
+ form
+ {
+   margin-bottom: 20px;
+
+ }

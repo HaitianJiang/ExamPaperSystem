@@ -1,0 +1,216 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+// 解决 高度塌陷
+.clearfix:before,
+			.clearfix:after{
+				content: "";
+				display: table;
+				clear: both;
+			}
+			
+			.clearfix{
+				zoom: 1;
+			}
+a
+{
+	text-decoration: none;
+}
+// 设置 图标
+.ico
+{
+	margin-right:10px ;
+}
+
+// 标题 
+#head
+{
+
+	#title
+	{
+		
+		float: left;
+		width: 30%;
+		
+		height: 100%;
+		text-align: center;
+		line-height: 100%;
+		p
+		{
+			display: block;
+			color:  #7f7f7f;
+			font-size: 30px;
+			height: 100%;
+			transform: translateY(50%)
+			
+		}
+		
+	}
+	#adds_question
+	{
+		float: right;
+		width: 20%;
+		
+		height: 100%;
+		text-align: center;
+		line-height: 100px;
+		
+		margin-right:100px ;
+		button
+		{
+			
+			height: 50%;
+			width: 90%;
+			text-align: center;
+			border-radius:28px;
+			margin:  20px auto;
+			background:none;
+			border: green solid 2px;
+			color: green;
+			font-size: 20px;
+			outline: none;
+			a{
+				color: green;
+			}
+			
+		}
+		
+	}
+	
+	#title,#adds_question
+	{
+		
+		display: inline-block;
+	}
+	
+	border-radius: 15px 15px;
+	background-color: white;
+	padding: 20px;
+	width: 80%;
+	margin: 30px auto;
+	height: 100px;
+
+}
+
+.item_name
+{
+	position: relative;
+	top: 15px;
+	width: 15%;
+	display: inline-block;
+				
+	text-align: right;
+}
+.item_input
+{
+	position: relative;
+	top: 15px;
+	display: inline-block;
+}
+			
+#body
+{
+	
+	form
+	{
+		input[type='submit']
+		{
+			
+			 height: 40px;
+			width: 10%;
+			text-align: center;
+			border-radius:28px;
+			margin:  20px 50px;
+			background:none;
+			border: green solid 2px;
+			color: green;
+			font-size: 20px;
+			outline: none;
+			float: right;
+			
+		}
+	}
+	input[type="submit"]
+	{
+		display: none;
+	}
+	.question
+	{
+		color:  #7f7f7f;
+		input::-webkit-input-placeholder
+		{
+		color:  #7f7f7f;
+		}
+		input
+		{
+			outline:none;
+			padding-left: 10px;
+			border:0px;
+			color:  #7f7f7f;
+			background:none;
+			height: 10px;
+			
+			// border-bottom:1px solid gray ;
+			padding: 10px;
+			
+		}
+		
+		width: 98%;
+		margin: 0 auto;
+		padding: 5px;
+		 box-shadow: 0px 0px 10px white ; 
+		background-color: white;
+		border-radius: 15px 15px;
+		
+		//  设置问题 ID 部分
+		.question_head
+		{
+			border-bottom:gray solid 2px;
+			height: 50%;
+			margin:10px ;
+			margin:10px ;
+			padding-bottom: 20px;
+
+			.question_change
+			{
+				float: right;
+				position: relative;
+				top: -10px;
+
+			}
+			
+		}
+		
+		// 设置问题 部分
+		.question_body
+		{
+			margin:10px ;
+			padding-bottom: 20px;
+			border-bottom: 1px black dashed;
+			
+				
+			
+		}
+		// 设置 问题 属性部分
+		.question_answer
+		{
+			
+			margin: 10px;
+			
+		}	
+		
+		
+	}
+	border-radius: 15px 15px;
+		background-color: white;
+		padding: 20px;
+		width: 80%;
+		margin: 0 auto;
+		
+	
+	
+}
+

@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="question_manage:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/question_manage_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="question_manage" />
+          <element id="module-output" name="Student" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../guiGuShang/尚硅谷JavaWeb_2020idea新版/资料/09-EL表达式&amp;JSTL标签库/代码/09_EL_JSTL/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/commons-dbutils-1.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/commons-io-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/mysql-connector-java-8.0.16.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/taglibs-standard-impl-1.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/taglibs-standard-spec-1.2.1.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="question_manage/web/Web" />
+      <element id="javaee-facet-resources" facet="Student/web/Web" />
+    </root>
+  </artifact>
+</component>
