@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="testbook:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="600cd6bf-a987-4d35-b400-7a7ce1f183ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../~$个人总结.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$个人日报.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$项目总结.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../个人日报.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testbook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/artifacts/login_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/artifacts/login_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/lib__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/libraries/lib__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/AnswerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/AnswerViewDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/ManagerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/PaperDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/PracticeViewDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/impl/AnswerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/impl/AnswerViewDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/impl/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/impl/PaperDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/dao/impl/PracticeViewDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/domain/AnswerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/domain/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/domain/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/domain/PracticeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/domain/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/domain/TestChapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/login/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/AnswerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/AnswerViewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/PaperService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/PractiseViewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/impl/AnswerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/impl/AnswerViewServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/impl/PaperServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/impl/PracticeViewServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/service/impl/TeacherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/test/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/AddStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/AddTeacherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/BaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/ChangeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/DelStudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/DelTeacherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/PaperNewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/PaperServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/StudentListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/java/com/example/web/servlet/TeacherListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/resources/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/commons-beanutils-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/druid-1.1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/spring-beans-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/spring-core-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/spring-jdbc-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/lib/spring-tx-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/css/add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/css/answer-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/css/check-paper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/css/manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/df1-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/df1-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/header-underline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/know-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/logo-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/logo-green.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/not_fine_paper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/select_papers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/学生账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/导航logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/教师账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/登录用户头像.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/试卷管理log2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/试卷管理系统log.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/账号管理.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/返回.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/img/返回2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/addcourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/addstu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/answer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/answerView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/list_course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/list_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/paper.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/passwdcg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/practiseView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/src/main/webapp/jsp/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/dao/ManagerDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/dao/TeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/domain/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/domain/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/domain/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/login/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/service/TeacherService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/service/impl/TeacherServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/test/UserDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/util/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/AddStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/AddTeacherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/ChangeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/DelStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/DelTeacherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/PaperServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/StudentListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/com/example/web/servlet/TeacherListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/classes/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/ManagerDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/TeacherDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/login/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/TeacherService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/impl/TeacherServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/test/UserDaoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/util/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/web/servlet/AddStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/web/servlet/AddTeacherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/web/servlet/ChangeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/web/servlet/DelStudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/web/servlet/DelTeacherServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/web/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/web/servlet/StudentListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/com/example/web/servlet/TeacherListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/classes/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/junit-4.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/css/add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/css/manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/img/add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/img/img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/img/logo-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/img/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/img/账号管理.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/jsp/addcourse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/jsp/addstu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/jsp/list_course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/jsp/list_student.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/jsp/manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/jsp/passwdcg.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login/target/login-1.0-SNAPSHOT/jsp/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/.idea/artifacts/question_manage_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/CombineTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/artifacts/testbook_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/Student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/AnswerDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/AnswerViewDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/PaperDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/PracticeViewDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/impl/AnswerDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/impl/AnswerViewDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/impl/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/impl/PaperDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/dao/impl/PracticeViewDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/pojo/AnswerView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/pojo/Paper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/pojo/PracticeView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/pojo/TestChapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/service/AnswerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/service/AnswerViewService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/service/PaperService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/service/PractiseViewService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/service/impl/AnswerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/service/impl/AnswerViewServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/service/impl/PaperServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/service/impl/PracticeViewServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/utils/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/web/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/com/atguigu/web/PaperServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/css/answer-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/css/check-paper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/df1-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/df1-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/header-underline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/know-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/logo-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/logo-green.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/not_fine_paper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/select_papers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/学生账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/导航logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/教师账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/登录用户头像.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/试卷管理log2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/试卷管理系统log.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/返回.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/img/返回2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/jsp/answer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/jsp/answerView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/jsp/paper.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/classes/jsp/practiseView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/css/answer-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/css/check-paper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/df1-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/df1-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/header-underline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/know-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/logo-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/logo-green.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/not_fine_paper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/select_papers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/学生账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/导航logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/教师账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/登录用户头像.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/试卷管理log2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/试卷管理系统log.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/返回.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/img/返回2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/jsp/answer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/jsp/answerView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/jsp/paper.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/artifacts/testbook_war_exploded/jsp/practiseView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/AnswerDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/AnswerViewDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/PaperDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/PracticeViewDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/impl/AnswerDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/impl/AnswerViewDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/impl/BaseDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/impl/PaperDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/dao/impl/PracticeViewDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/pojo/AnswerView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/pojo/Paper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/pojo/PracticeView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/pojo/TestChapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/service/AnswerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/service/AnswerViewService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/service/PaperService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/service/PractiseViewService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/service/impl/AnswerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/service/impl/AnswerViewServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/service/impl/PaperServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/service/impl/PracticeViewServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/utils/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/web/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/com/atguigu/web/PaperServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/css/answer-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/css/check-paper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/df1-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/df1-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/header-underline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/know-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/logo-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/logo-green.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/not_fine_paper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/select_papers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/学生账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/导航logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/教师账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/登录用户头像.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/试卷管理log2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/试卷管理系统log.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/返回.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/img/返回2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/jsp/answer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/jsp/answerView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/jsp/paper.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/out/production/testbook/jsp/practiseView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/AnswerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/AnswerViewDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/PaperDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/PracticeViewDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/impl/AnswerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/impl/AnswerViewDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/impl/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/impl/PaperDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/dao/impl/PracticeViewDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/pojo/AnswerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/pojo/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/pojo/PracticeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/pojo/TestChapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/service/AnswerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/service/AnswerViewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/service/PaperService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/service/PractiseViewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/service/impl/AnswerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/service/impl/AnswerViewServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/service/impl/PaperServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/service/impl/PracticeViewServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/utils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/web/BaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/src/com/atguigu/web/PaperServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/testbook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/css/answer-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/css/check-paper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/df1-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/df1-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/header-underline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/know-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/logo-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/logo-green.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/not_fine_paper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/select_papers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/学生账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/导航logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/教师账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/登录用户头像.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/试卷管理log2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/试卷管理系统log.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/账号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/返回.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/img/返回2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/jsp/answer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/jsp/answerView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/jsp/paper.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/Student/web/jsp/practiseView.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/artifacts/question_manage_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/artifacts/question_manage_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/question_manage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/com/example/question_manage/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/dao/IQuestionManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/dao/impl/QuestionManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/entity/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/entity/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/service/IManageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/service/impl/ManageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/servlet/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/servlet/QuestionAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/servlet/QuestionAllQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/servlet/QuestionChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/servlet/QuestionDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/servlet/QuestionQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/servlet/QuestionQueryByPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/java/org/keshe/util/StingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/HomePage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/HomePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/a.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/question_add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/question_check.1css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/question_check.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/question_manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/question_manage.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/question_revise.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/css/question_revise.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/img/add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/img/img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/img/修改.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/img/删 除.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/img/账号管理.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/js/question_add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/js/question_check.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/js/question_manage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/question_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/question_check.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/question_manage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/src/main/webapp/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/com/example/question_manage/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/dao/IQuestionManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/dao/impl/QuestionManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/entity/Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/entity/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/service/IManageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/service/impl/ManageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/servlet/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/servlet/QuestionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/servlet/QuestionAllQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/servlet/QuestionChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/servlet/QuestionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/servlet/QuestionQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/servlet/QuestionQueryByPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/classes/org/keshe/util/StingUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/HomePage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/com/example/question_manage/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/dao/IQuestionManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/dao/impl/QuestionManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/entity/Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/entity/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/service/IManageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/service/impl/ManageService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/servlet/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/servlet/QuestionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/servlet/QuestionAllQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/servlet/QuestionChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/servlet/QuestionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/servlet/QuestionQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/servlet/QuestionQueryByPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/classes/org/keshe/util/StingUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/HomePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/a.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/question_add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/question_check.1css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/question_check.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/question_manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/question_manage.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/question_revise.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/css/question_revise.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/img/add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/img/img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/img/修改.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/img/删 除.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/img/账号管理.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/js/question_add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/js/question_check.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/js/question_manage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/manager.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/question_add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/question_check.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/question_manage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/question_manage/target/question_manage-1.0-SNAPSHOT/script/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/CombineTest/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/03.第三周/combine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/lib/commons-dbutils-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../成果汇总/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/artifacts/question_manage_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/artifacts/question_manage_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../田显阳/03.第三周/question_manage/question_manage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../项目总结.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../孟洋/03.第三周/login.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../孟洋/03.第三周/login.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1mM3QmCa4OFtnIlCJ3tHxbJ6GQO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../孟洋/03.第三周/login" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27126437" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myCollege\training\guiGuShang\testbook\web\jsp" />
+      <recent name="D:\myCollege\training\guiGuShang\testbook\web\css" />
+      <recent name="D:\myCollege\training\guiGuShang\testbook\web\img" />
+      <recent name="D:\myCollege\training\guiGuShang\testbook\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myCollege\training\guiGuShang\testbook\web\jsp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.testBook_tomcat">
+    <configuration name="AnswerViewDaoImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.dao.impl.AnswerViewDaoImpl" />
+      <module name="testbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnswerViewServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.service.impl.AnswerViewServiceImpl" />
+      <module name="testbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaperDaoImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.dao.impl.PaperDaoImpl" />
+      <module name="testbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeViewDaoImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.dao.impl.PracticeViewDaoImpl" />
+      <module name="testbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeViewServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.service.impl.PracticeViewServiceImpl" />
+      <module name="testbook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a9edc5cf-e403-4446-94a1-a6bca27c0b31" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63787" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBook_tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.362" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/testbook/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="testbook:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/testbook" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2c035adf-d59d-42ed-abc7-17f961f9822c" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63787" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="testbook:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PaperDaoImpl" />
+      <item itemvalue="Application.PracticeViewDaoImpl" />
+      <item itemvalue="Application.PracticeViewServiceImpl" />
+      <item itemvalue="Application.AnswerViewDaoImpl" />
+      <item itemvalue="Application.AnswerViewServiceImpl" />
+      <item itemvalue="Tomcat Server.testBook_tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnswerViewServiceImpl" />
+        <item itemvalue="Application.AnswerViewDaoImpl" />
+        <item itemvalue="Application.PaperDaoImpl" />
+        <item itemvalue="Application.PracticeViewServiceImpl" />
+        <item itemvalue="Application.PracticeViewDaoImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="600cd6bf-a987-4d35-b400-7a7ce1f183ec" name="Default Changelist" comment="" />
+      <created>1609289620194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609289620194</updated>
+      <workItem from="1609289621321" duration="3788000" />
+      <workItem from="1609308544947" duration="32327000" />
+      <workItem from="1609403391323" duration="27052000" />
+      <workItem from="1609463992966" duration="15646000" />
+      <workItem from="1609487931259" duration="41949000" />
+      <workItem from="1609588893059" duration="2972000" />
+      <workItem from="1609601014039" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
